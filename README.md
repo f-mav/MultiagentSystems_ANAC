@@ -5,6 +5,8 @@ This repository contains an agent compatible for the ANAC competition 2023 (ANL 
 * Opponent modeling: We categorize the opponents to greedy or explorative.
   
 Negotiation Stages:
+
+
 <img width="861" height="386" alt="εικόνα" src="https://github.com/user-attachments/assets/e80411b0-a1c9-447a-9fd4-4ea5d0cc0bfd" />
   
 
